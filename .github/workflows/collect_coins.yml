@@ -8,7 +8,7 @@ on:
       - cron: "35 8 * * *"
       - cron: "36 11 * * *"
       - cron: "37 14 * * *"
-      - cron: "38 17 * * "
+      - cron: "38 17 * * *"
     workflow_dispatch:
 
 env:
